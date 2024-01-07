@@ -36,8 +36,8 @@ I'm Samuel Odhiambo Obunge, a passionate Full-Stack Developer from Kisumu, Kenya
 
 ## 🚀 Featured Projects
 
-- [Project 1](https://github.com/yourusername/project1): Short description.
-- [Project 2](https://github.com/yourusername/project2): Short description.
+- [Egerton Notification System](https://github.com/Sobunge/NotifyEgerton): A web application that facilitates pushing and retrieving of notifications within Egerton Community.
+- [Chief Walfare](https://github.com/Sobunge/cheifManage): A web application that handles welfare for all chiefs in Kenya.
 ...
 
 ## 🤝 Let's Collaborate
