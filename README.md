@@ -18,6 +18,9 @@ I'm Samuel Odhiambo Obunge, a passionate Full-Stack Developer from Kisumu, Kenya
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vanilla CSS](https://img.shields.io/badge/-Vanilla%20CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4B32C3?style=flat)
+![GitHub CLI](https://img.shields.io/badge/-GitHub%20CLI-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ...
 
