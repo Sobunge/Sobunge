@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Samuel Odhiambo Obunge, a passionate FullStack Developer from Kisumu, Kenya. Welcome to my GitHub profile!
+I'm Samuel Odhiambo Obunge, a passionate Full-Stack Developer from Kisumu, Kenya. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
