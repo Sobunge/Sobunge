@@ -13,7 +13,11 @@ I'm Samuel Odhiambo Obunge, a passionate FullStack Developer from Kisumu, Kenya.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vanilla CSS](https://img.shields.io/badge/-Vanilla%20CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ...
 
@@ -37,7 +41,7 @@ I'm Samuel Odhiambo Obunge, a passionate FullStack Developer from Kisumu, Kenya.
 ## 🤝 Let's Collaborate
 
 - 🔍 I'm open to collaboration on interesting projects.
-- 📧 You can reach me at your.email@example.com.
+- 📧 You can reach me at samuelobunge@gmail.com
 
 ## 🎉 Thanks for visiting!
 
